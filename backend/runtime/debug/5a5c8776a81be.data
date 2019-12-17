@@ -1,0 +1,352 @@
+a:12:{s:6:"config";s:7723:"a:5:{s:10:"phpVersion";s:37:"7.1.13-1+ubuntu16.04.1+deb.sury.org+1";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:13:"Smart Village";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:37:"7.1.13-1+ubuntu16.04.1+deb.sury.org+1";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:32:{s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:52:"/var/www/html/smartvillage/vendor/kartik-v/yii2-mpdf";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:56:"/var/www/html/smartvillage/vendor/yiisoft/yii2-bootstrap";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:59:"/var/www/html/smartvillage/vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:64:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:64:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:65:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:66:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:62:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:62:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:62:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:61:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:65:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:60:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:64:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:62:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:69:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.3.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:65:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:65:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:60:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:60:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:65:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:55:"/var/www/html/smartvillage/vendor/kartik-v/yii2-widgets";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:50:"/var/www/html/smartvillage/vendor/yiisoft/yii2-gii";}}s:18:"dmstr/yii2-helpers";a:3:{s:4:"name";s:18:"dmstr/yii2-helpers";s:7:"version";s:7:"0.4.5.0";s:5:"alias";a:1:{s:14:"@dmstr/helpers";s:56:"/var/www/html/smartvillage/vendor/dmstr/yii2-helpers/src";}}s:13:"dmstr/yii2-db";a:3:{s:4:"name";s:13:"dmstr/yii2-db";s:7:"version";s:7:"0.9.3.0";s:5:"alias";a:3:{s:9:"@dmstr/db";s:50:"/var/www/html/smartvillage/vendor/dmstr/yii2-db/db";s:15:"@dmstr/db/tests";s:56:"/var/www/html/smartvillage/vendor/dmstr/yii2-db/db/tests";s:14:"@dmstr/console";s:55:"/var/www/html/smartvillage/vendor/dmstr/yii2-db/console";}}s:20:"dmstr/yii2-bootstrap";a:3:{s:4:"name";s:20:"dmstr/yii2-bootstrap";s:7:"version";s:7:"0.2.0.0";s:5:"alias";a:1:{s:16:"@dmstr/bootstrap";s:54:"/var/www/html/smartvillage/vendor/dmstr/yii2-bootstrap";}}s:21:"schmunk42/yii2-giiant";a:4:{s:4:"name";s:21:"schmunk42/yii2-giiant";s:7:"version";s:7:"0.9.2.0";s:5:"alias";a:1:{s:17:"@schmunk42/giiant";s:59:"/var/www/html/smartvillage/vendor/schmunk42/yii2-giiant/src";}s:9:"bootstrap";s:26:"schmunk42\giiant\Bootstrap";}s:26:"wbraganca/yii2-dynamicform";a:3:{s:4:"name";s:26:"wbraganca/yii2-dynamicform";s:7:"version";s:7:"2.0.2.0";s:5:"alias";a:1:{s:22:"@wbraganca/dynamicform";s:60:"/var/www/html/smartvillage/vendor/wbraganca/yii2-dynamicform";}}s:19:"yiisoft/yii2-smarty";a:3:{s:4:"name";s:19:"yiisoft/yii2-smarty";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:11:"@yii/smarty";s:53:"/var/www/html/smartvillage/vendor/yiisoft/yii2-smarty";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:58:"/var/www/html/smartvillage/vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.12.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:52:"/var/www/html/smartvillage/vendor/yiisoft/yii2-debug";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:52:"/var/www/html/smartvillage/vendor/yiisoft/yii2-faker";}}}}";s:7:"request";s:5948:"a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:12:{s:4:"host";s:12:"159.89.194.1";s:10:"user-agent";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0";s:6:"accept";s:3:"*/*";s:15:"accept-language";s:14:"en-US,en;q=0.5";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:65:"http://159.89.194.1/smartvillage/backend/web/operator/pembangunan";s:14:"content-length";s:3:"232";s:12:"content-type";s:72:"multipart/form-data; boundary=---------------------------118862253724852";s:6:"cookie";s:267:"_csrf=fd8dc4f27c2394da9c112e466129684667c05fc72aef38207c1046c678d68385a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%8A%12%04-h%A3%A2%F1RE%0B%D9%1D%FC%1A%FE%01%80X%E7T4%8B%92%AD%C1%3B%FA%D4%85%12%F9%22%3B%7D; advanced-backend=culobpb6h43vacv2tdivkmuaqb";s:10:"x-proxy-id";s:9:"993601166";s:15:"x-forwarded-for";s:14:"192.168.88.116";s:3:"via";s:37:"1.1 192.168.88.1 (Mikrotik HttpProxy)";}s:15:"responseHeaders";a:4:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:25:"operator/pembangunan/form";s:6:"action";s:64:"backend\controllers\operator\PembangunanController::actionForm()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:37:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:12:"159.89.194.1";s:15:"HTTP_USER_AGENT";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0";s:11:"HTTP_ACCEPT";s:3:"*/*";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.5";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:65:"http://159.89.194.1/smartvillage/backend/web/operator/pembangunan";s:14:"CONTENT_LENGTH";s:3:"232";s:12:"CONTENT_TYPE";s:72:"multipart/form-data; boundary=---------------------------118862253724852";s:11:"HTTP_COOKIE";s:267:"_csrf=fd8dc4f27c2394da9c112e466129684667c05fc72aef38207c1046c678d68385a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%8A%12%04-h%A3%A2%F1RE%0B%D9%1D%FC%1A%FE%01%80X%E7T4%8B%92%AD%C1%3B%FA%D4%85%12%F9%22%3B%7D; advanced-backend=culobpb6h43vacv2tdivkmuaqb";s:15:"HTTP_X_PROXY_ID";s:9:"993601166";s:20:"HTTP_X_FORWARDED_FOR";s:14:"192.168.88.116";s:8:"HTTP_VIA";s:37:"1.1 192.168.88.1 (Mikrotik HttpProxy)";s:4:"PATH";s:60:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";s:16:"SERVER_SIGNATURE";s:73:"<address>Apache/2.4.29 (Ubuntu) Server at 159.89.194.1 Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.4.29 (Ubuntu)";s:11:"SERVER_NAME";s:12:"159.89.194.1";s:11:"SERVER_ADDR";s:12:"159.89.194.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:14:"114.57.191.101";s:13:"DOCUMENT_ROOT";s:13:"/var/www/html";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:13:"/var/www/html";s:12:"SERVER_ADMIN";s:19:"webmaster@localhost";s:15:"SCRIPT_FILENAME";s:48:"/var/www/html/smartvillage/backend/web/index.php";s:11:"REMOTE_PORT";s:5:"54058";s:12:"REDIRECT_URL";s:51:"/smartvillage/backend/web/operator/pembangunan/form";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:51:"/smartvillage/backend/web/operator/pembangunan/form";s:11:"SCRIPT_NAME";s:35:"/smartvillage/backend/web/index.php";s:8:"PHP_SELF";s:35:"/smartvillage/backend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1516013430.659;s:12:"REQUEST_TIME";i:1516013430;}s:3:"GET";a:0:{}s:4:"POST";a:1:{s:5:"_csrf";s:88:"QmMiEtJNg65HK1L_dSv9z6JSMW0BeziMezM3VCI45RLIcSY_uu4hXxVuWSZo1-cxo9JpilVPsx7W8gyu9r336w==";}s:6:"COOKIE";a:2:{s:5:"_csrf";s:130:"fd8dc4f27c2394da9c112e466129684667c05fc72aef38207c1046c678d68385a:2:{i:0;s:5:"_csrf";i:1;s:32:"Š-h£¢ñREÙüþ€XçT4‹’­Á;úÔ…ù";}";s:16:"advanced-backend";s:26:"culobpb6h43vacv2tdivkmuaqb";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"user";O:19:"backend\models\User":9:{s:9:"imageFile";N;s:36:" yii\db\BaseActiveRecord _attributes";a:14:{s:2:"id";i:3;s:8:"roles_id";i:7;s:4:"name";s:8:"operator";s:8:"username";s:8:"operator";s:8:"password";s:40:"4aed7fb4eed446796c59ab3fd911e359f063ec83";s:8:"auth_key";s:32:"FZH9E-lxRkTZXXv0V4M-TRi1oIHMFzy_";s:20:"password_reset_token";N;s:12:"access_token";s:0:"";s:5:"email";s:21:"operator@operator.com";s:5:"photo";s:0:"";s:10:"last_login";s:19:"2018-01-15 17:38:39";s:11:"penduduk_id";i:2;s:10:"created_at";s:19:"2017-11-28 03:16:17";s:10:"updated_at";s:19:"2018-01-15 10:06:48";}s:39:" yii\db\BaseActiveRecord _oldAttributes";a:14:{s:2:"id";i:3;s:8:"roles_id";i:7;s:4:"name";s:8:"operator";s:8:"username";s:8:"operator";s:8:"password";s:40:"4aed7fb4eed446796c59ab3fd911e359f063ec83";s:8:"auth_key";s:32:"FZH9E-lxRkTZXXv0V4M-TRi1oIHMFzy_";s:20:"password_reset_token";N;s:12:"access_token";s:0:"";s:5:"email";s:21:"operator@operator.com";s:5:"photo";s:0:"";s:10:"last_login";s:19:"2018-01-15 17:38:39";s:11:"penduduk_id";i:2;s:10:"created_at";s:19:"2017-11-28 03:16:17";s:10:"updated_at";s:19:"2018-01-15 10:06:48";}s:33:" yii\db\BaseActiveRecord _related";a:1:{s:4:"role";O:19:"backend\models\Role":8:{s:36:" yii\db\BaseActiveRecord _attributes";a:4:{s:2:"id";i:7;s:4:"name";s:8:"operator";s:4:"icon";s:0:"";s:4:"sort";s:0:"";}s:39:" yii\db\BaseActiveRecord _oldAttributes";a:4:{s:2:"id";i:7;s:4:"name";s:8:"operator";s:4:"icon";s:0:"";s:4:"sort";s:0:"";}s:33:" yii\db\BaseActiveRecord _related";a:0:{}s:23:" yii\base\Model _errors";N;s:27:" yii\base\Model _validators";N;s:25:" yii\base\Model _scenario";s:7:"default";s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";a:0:{}}}s:23:" yii\base\Model _errors";a:0:{}s:27:" yii\base\Model _validators";C:11:"ArrayObject":21:{x:i:0;a:0:{};m:a:0:{}}s:25:" yii\base\Model _scenario";s:7:"default";s:27:" yii\base\Component _events";a:0:{}s:30:" yii\base\Component _behaviors";a:0:{}}}}";s:3:"log";s:11570:"a:1:{s:8:"messages";a:27:{i:0;a:6:{i:0;s:54:"Bootstrap with schmunk42\giiant\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516013430.686981;i:4;a:0:{}i:5;i:1039312;}i:1;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516013430.686989;i:4;a:0:{}i:5;i:1040112;}i:2;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516013430.687201;i:4;a:0:{}i:5;i:1129688;}i:3;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1516013430.687218;i:4;a:0:{}i:5;i:1130488;}i:4;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1516013430.688175;i:4;a:0:{}i:5;i:1470112;}i:5;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516013430.688397;i:4;a:0:{}i:5;i:1472792;}i:6;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1516013430.688763;i:4;a:0:{}i:5;i:1489224;}i:13;a:6:{i:0;s:44:"Route requested: 'operator/pembangunan/form'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1516013430.688947;i:4;a:0:{}i:5;i:1505896;}i:14;a:6:{i:0;s:39:"Route to run: operator/pembangunan/form";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1516013430.689113;i:4;a:0:{}i:5;i:1598144;}i:15;a:6:{i:0;s:80:"Running action: backend\controllers\operator\PembangunanController::actionForm()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1516013430.689215;i:4;a:0:{}i:5;i:1601296;}i:16;a:6:{i:0;s:39:"SELECT * FROM `sumber_dana_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.689717;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1764560;}i:17;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=db_smartvillage";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1516013430.689742;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1768272;}i:22;a:6:{i:0;s:48:"SHOW FULL COLUMNS FROM `sumber_dana_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690533;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1790408;}i:25;a:6:{i:0;s:633:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sumber_dana_pembangunan' AND kcu.table_name = 'sumber_dana_pembangunan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691477;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1809272;}i:28;a:6:{i:0;s:36:"SELECT * FROM `kategori_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692065;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1822424;}i:31;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `kategori_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692227;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1832768;}i:34;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'kategori_pembangunan' AND kcu.table_name = 'kategori_pembangunan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692736;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1845584;}i:37;a:6:{i:0;s:34:"SELECT * FROM `status_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693168;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1858664;}i:40;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `status_pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693323;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1867920;}i:43;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'status_pembangunan' AND kcu.table_name = 'status_pembangunan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693852;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1879456;}i:46;a:6:{i:0;s:21:"SELECT * FROM `mitra`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695313;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1892200;}i:49;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `mitra`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695457;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1901104;}i:52;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mitra' AND kcu.table_name = 'mitra'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695963;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1913376;}i:55;a:6:{i:0;s:91:"Rendering view file: /var/www/html/smartvillage/backend/views/operator/pembangunan/form.tpl";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1516013430.696799;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:94;s:8:"function";s:13:"renderPartial";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1918624;}i:56;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `pembangunan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.704323;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2092920;}i:59;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'pembangunan' AND kcu.table_name = 'pembangunan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.705248;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2113256;}i:62;a:6:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 114.57.191.101";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1516013430.706338;i:4;a:0:{}i:5;i:2093296;}}}";s:9:"profiling";s:18708:"a:3:{s:6:"memory";i:2133736;s:4:"time";d:0.02113509178161621;s:8:"messages";a:30:{i:18;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=db_smartvillage";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1516013430.689751;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1769400;}i:19;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=db_smartvillage";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1516013430.690293;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1781832;}i:20;a:6:{i:0;s:39:"SELECT * FROM `sumber_dana_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690318;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1781432;}i:21;a:6:{i:0;s:39:"SELECT * FROM `sumber_dana_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690451;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1784864;}i:23;a:6:{i:0;s:48:"SHOW FULL COLUMNS FROM `sumber_dana_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690552;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1791808;}i:24;a:6:{i:0;s:48:"SHOW FULL COLUMNS FROM `sumber_dana_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691322;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1797992;}i:26;a:6:{i:0;s:633:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sumber_dana_pembangunan' AND kcu.table_name = 'sumber_dana_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691521;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1811624;}i:27;a:6:{i:0;s:633:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sumber_dana_pembangunan' AND kcu.table_name = 'sumber_dana_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691897;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1813144;}i:29;a:6:{i:0;s:36:"SELECT * FROM `kategori_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692079;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1823792;}i:30;a:6:{i:0;s:36:"SELECT * FROM `kategori_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692193;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1828304;}i:32;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `kategori_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692242;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1834160;}i:33;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `kategori_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692659;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1841624;}i:35;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'kategori_pembangunan' AND kcu.table_name = 'kategori_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692754;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1847936;}i:36;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'kategori_pembangunan' AND kcu.table_name = 'kategori_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693024;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1849456;}i:38;a:6:{i:0;s:34:"SELECT * FROM `status_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693182;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1860032;}i:39;a:6:{i:0;s:34:"SELECT * FROM `status_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.69329;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1863456;}i:41;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `status_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693351;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1869312;}i:42;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `status_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.69377;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1875496;}i:44;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'status_pembangunan' AND kcu.table_name = 'status_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693871;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1881808;}i:45;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'status_pembangunan' AND kcu.table_name = 'status_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695163;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1883328;}i:47;a:6:{i:0;s:21:"SELECT * FROM `mitra`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695327;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1893536;}i:48;a:6:{i:0;s:21:"SELECT * FROM `mitra`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695425;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1896728;}i:50;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `mitra`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695472;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1902456;}i:51;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `mitra`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695877;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1910552;}i:53;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mitra' AND kcu.table_name = 'mitra'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695997;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1915728;}i:54;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mitra' AND kcu.table_name = 'mitra'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.696617;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1918088;}i:57;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.70437;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2095040;}i:58;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.705078;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2115576;}i:60;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'pembangunan' AND kcu.table_name = 'pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.705268;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2116360;}i:61;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'pembangunan' AND kcu.table_name = 'pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.70581;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2124696;}}}";s:2:"db";s:17872:"a:1:{s:8:"messages";a:28:{i:20;a:6:{i:0;s:39:"SELECT * FROM `sumber_dana_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690318;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1781432;}i:21;a:6:{i:0;s:39:"SELECT * FROM `sumber_dana_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690451;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1784864;}i:23;a:6:{i:0;s:48:"SHOW FULL COLUMNS FROM `sumber_dana_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.690552;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1791808;}i:24;a:6:{i:0;s:48:"SHOW FULL COLUMNS FROM `sumber_dana_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691322;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1797992;}i:26;a:6:{i:0;s:633:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sumber_dana_pembangunan' AND kcu.table_name = 'sumber_dana_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691521;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1811624;}i:27;a:6:{i:0;s:633:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sumber_dana_pembangunan' AND kcu.table_name = 'sumber_dana_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.691897;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:64;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1813144;}i:29;a:6:{i:0;s:36:"SELECT * FROM `kategori_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692079;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1823792;}i:30;a:6:{i:0;s:36:"SELECT * FROM `kategori_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692193;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1828304;}i:32;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `kategori_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692242;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1834160;}i:33;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `kategori_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692659;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1841624;}i:35;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'kategori_pembangunan' AND kcu.table_name = 'kategori_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.692754;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1847936;}i:36;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'kategori_pembangunan' AND kcu.table_name = 'kategori_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693024;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:69;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1849456;}i:38;a:6:{i:0;s:34:"SELECT * FROM `status_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693182;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1860032;}i:39;a:6:{i:0;s:34:"SELECT * FROM `status_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.69329;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1863456;}i:41;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `status_pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693351;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1869312;}i:42;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `status_pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.69377;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1875496;}i:44;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'status_pembangunan' AND kcu.table_name = 'status_pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.693871;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1881808;}i:45;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'status_pembangunan' AND kcu.table_name = 'status_pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695163;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:74;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1883328;}i:47;a:6:{i:0;s:21:"SELECT * FROM `mitra`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695327;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1893536;}i:48;a:6:{i:0;s:21:"SELECT * FROM `mitra`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695425;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1896728;}i:50;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `mitra`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695472;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1902456;}i:51;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `mitra`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695877;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1910552;}i:53;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mitra' AND kcu.table_name = 'mitra'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.695997;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1915728;}i:54;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mitra' AND kcu.table_name = 'mitra'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.696617;i:4;a:1:{i:0;a:5:{s:4:"file";s:81:"/var/www/html/smartvillage/backend/controllers/operator/PembangunanController.php";s:4:"line";i:79;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:1918088;}i:57;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `pembangunan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.70437;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2095040;}i:58;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `pembangunan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.705078;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2115576;}i:60;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'pembangunan' AND kcu.table_name = 'pembangunan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.705268;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2116360;}i:61;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'pembangunan' AND kcu.table_name = 'pembangunan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1516013430.70581;i:4;a:3:{i:0;a:5:{s:4:"file";s:118:"/var/www/html/smartvillage/backend/runtime/Smarty/compile/921403e96d1e6e2de90117341e0ad6731f6ad8bc_0.file.form.tpl.php";s:4:"line";i:33;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:3:{s:4:"file";s:97:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php";s:4:"line";i:128;s:8:"function";s:31:"content_5a5c7d496279d3_73512891";}i:2;a:5:{s:4:"file";s:92:"/var/www/html/smartvillage/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php";s:4:"line";i:172;s:8:"function";s:23:"getRenderedTemplateCode";s:5:"class";s:29:"Smarty_Template_Resource_Base";s:4:"type";s:2:"->";}}i:5;i:2124696;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:91:"a:3:{s:5:"start";d:1516013430.685974;s:3:"end";d:1516013430.707251;s:6:"memory";i:2133736;}";s:4:"user";s:2:"N;";s:6:"router";s:1156:"a:1:{s:8:"messages";a:6:{i:7;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.6889;i:4;a:0:{}i:5;i:1502200;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.688919;i:4;a:0:{}i:5;i:1502992;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.688924;i:4;a:0:{}i:5;i:1504144;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.688932;i:4;a:0:{}i:5;i:1504928;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.688937;i:4;a:0:{}i:5;i:1505760;}i:12;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1516013430.68894;i:4;a:0:{}i:5;i:1506136;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5a5c8776a81be";s:3:"url";s:70:"http://159.89.194.1/smartvillage/backend/web/operator/pembangunan/form";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:14:"114.57.191.101";s:4:"time";d:1516013430.659;s:10:"statusCode";i:200;s:8:"sqlCount";i:14;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}

@@ -1,0 +1,21 @@
+.tab-content>.tab-pane {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: 0 none;
+}
+.dokumen-kelengkapan-list{
+}
+.dokumen-kelengkapan-list:after{
+    content: ",";
+}
+.dokumen-kelengkapan-list:last-child:after{
+    content: "";
+}
+.info{
+    font-size: 95%;
+    display: block;
+    margin: 5px 0 0 0;
+}
+.skin-blue .main-header .navbar, .skin-blue .main-header li.user-header{
+    background-color: #2C3B41;
+}

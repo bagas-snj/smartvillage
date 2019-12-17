@@ -1,0 +1,6 @@
+login admin:
+username:admin
+password:adminadmin
+login operator:
+username:operator123
+password:operator123
